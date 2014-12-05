@@ -12,7 +12,7 @@
             "name": "James Jin"
         }
     ],
-    "autoload": {
-        "classmap": ["lib"]
+    "autoload":     {
+        "psr-0": { "GreenPower\\AssetBundle": "" }
     }
 }
